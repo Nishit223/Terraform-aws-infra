@@ -28,7 +28,7 @@ This Terraform project automates provisioning of a **basic AWS infrastructure** 
 
 ## Architecture Diagram
  
-![Map](https://github.com/Nishit223/Terraform-aws-infra/terraform-infra-img.jpeg)
+![Map](terrafrom-infra-img.jpeg)
 
 ---
 
